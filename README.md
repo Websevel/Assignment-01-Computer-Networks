@@ -5,7 +5,7 @@ This project analyzes different web protocols (HTTP, HTTPS, and QUIC) using Wire
 
 **Team Members**
 
-Osama Muhammad    B23F0333AI079
-Amir Ayub         B23F0767AI193
+Osama Muhammad    B23F0333AI079/
+Amir Ayub         B23F0767AI193/
 Abdullah Sajid    B23F0001AI062
 
